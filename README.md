@@ -9,4 +9,4 @@ Features:
 - mark task done
 - delete task
 
-![alt tag](https://lh4.googleusercontent.com/eRp9SG4_cmDbVvo_1hKcJIAeCkeaW6EnONZLP_98AeAgOUFy2NS8jtMEP4gMUqtYdK66_Hdv-OFL9oQ=w1366-h638-rw)
+![alt tag](https://github.com/MiroslavMogus/react-todo/blob/master/todo1.png)
